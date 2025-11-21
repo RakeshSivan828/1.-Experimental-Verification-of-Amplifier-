@@ -194,12 +194,14 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 | S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
 |------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| 1 | 0.5 | 1 | 5 | 5 | 4.23 |
+| 2 | 0.5 | 1.5 | 10 | 10 | 7.75 |
+| 3 | 0.5 | 2 | 15 | 15 | 12.2 |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-11-21 at 18 44 04_f3b0ed84](https://github.com/user-attachments/assets/ee2813e2-0e59-49fe-86a8-40b594c7f5bf)
 
 
 ---
@@ -233,13 +235,14 @@ PROCEDURE:
 
 | S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
 |------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| 1 | 0.5 | 2 | 8.25 | 8.25 | 7.54 |
+| 2 | 1 | 2 | 5.4 | 5.4 | 4.94 |
+| 3 | 0.5 | 2.5 | 11 | 11 | 10.05 |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-21 at 18 44 03_40896492](https://github.com/user-attachments/assets/55e706ba-5ef6-40ee-a0bc-6ae2af03c65a)
 
 ---
 ## RESULT
