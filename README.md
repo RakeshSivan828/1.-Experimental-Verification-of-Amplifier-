@@ -48,9 +48,11 @@ The negative sign in gain indicates a **phase shift of 180°**.
 Acl = -RF/R1
 
 PIN DIAGRAM
+
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
+
 <img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
 
 MODEL GRAPH 
@@ -84,14 +86,16 @@ Inverting amplifier:
 
 | S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
 |------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
+| 1 | 200 | 1 | -2 | -2 | -1.94 |
+| 2 | 250 | 1 | -2.5 | -2.5 | -2.46 |
+| 3 | 360 | 1 | -3.6 | -3.6 | -3.40 |			
  
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-11-21 at 18 44 02_08d17b74](https://github.com/user-attachments/assets/4d76266b-6389-4dd1-98d0-03cae529c5e6)
 
 
 ---
@@ -132,12 +136,14 @@ PROCEDURE:
 
 | S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
 |------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| 1 | 220 | 1 | 2.42 | 2.42 | 2.6 |
+| 2 | 340 | 1 | 3.7 | 3.7 | 3.4 |
+| 3 | 440 | 1 | 4.8 | 4.8 | 4.8 |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+![WhatsApp Image 2025-11-21 at 18 44 03_f11b2696](https://github.com/user-attachments/assets/1c572fb7-1abd-43f4-9ae8-0b28d22cd01d)
 
 
 ---
